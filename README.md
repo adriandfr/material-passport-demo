@@ -1,7 +1,7 @@
 # Material Passport Demo – HEA 300 Steel Beam
 
 **▶ Live demo:** https://adriandfr.github.io/material-passport-demo/
-**📄 Paper:** [Digital Twins as Material Passports (PDF)](./Digital_Twins_as_Material_Passports.pdf)
+**📄 Paper:** [Digital Twins as Material Passports (PDF)](./Digital_Twins_as_Material_Passports.pdf.pdf)
 
 Interactive prototype from my seminar paper *"Digital Twins as Material Passports: Enabling Circular Economy and Embodied Carbon Reduction in the Built Environment through Component Reuse"*. TU Wien, Digital Architecture and Planning, May 2026.
 
